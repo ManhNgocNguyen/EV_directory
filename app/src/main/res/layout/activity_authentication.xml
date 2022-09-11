@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Authentication"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Authentication"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:background="@drawable/custom"
+        android:backgroundTint="#D0EAFD"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:text="Function"
+                android:textStyle="bold"
+                android:textColor="@color/black" />
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:orientation="vertical">
+          <Button
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Từ Điển"
+              android:id="@+id/buttonHienThi" /> <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="User"
+          android:id="@+id/buttonUser" />
+      </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="10dp">
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Thêm"
+                    android:id="@+id/buttonThem"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sửa"
+                    android:id="@+id/buttonSua"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="10dp">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Xóa"
+                android:id="@+id/buttonXoa"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Resest"
+                android:id="@+id/buttonReset"/>
+        </LinearLayout>
+    </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/linearLayoutSubTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp">
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:background="@drawable/custom"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#FF0000"
+            android:text="ID" />
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/custom"
+            android:gravity="center"
+            android:text="Tiếng Anh"
+            android:textStyle="bold"
+            android:textColor="#FF0000" />
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:background="@drawable/custom"
+            android:text="Tiếng Việt"
+            android:textStyle="bold"
+            android:textColor="#FF0000" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:gravity="center"
+            android:layout_height="40dp"
+            android:background="@drawable/custom"
+            android:text="Loại"
+            android:textStyle="bold"
+            android:textColor="#FF0000" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:id="@+id/frameLayoutAuthentication">
+    </FrameLayout>
+
+
+</LinearLayout>

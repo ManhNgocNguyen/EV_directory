@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/drawable-v24/custom_1.xml" value="0.223" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/drawable-v24/custom_layout.xml" value="0.215" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/drawable/custom_title.xml" value="0.152" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/activity_authentication.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/activity_display.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/activity_login.xml" value="0.12685185185185185" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/activity_sign_up.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/activity_start.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/english_directory_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_add_word.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_anh_viet.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_blank.xml" value="0.12685185185185185" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_delete.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_display.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_display_user.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_dong_nghia.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_ngu_phap.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_tra_nhanh.xml" value="0.14527027027027026" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_tu_da_tra.xml" value="0.18659420289855072" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_tu_vung_thong_dung.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_update.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/fragment_viet_anh.xml" value="0.4" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/row_english_tense.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/search_view_layout.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/tu_dong_nghia_layout.xml" value="0.2734375" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/tu_vung_thong_dung_dialog.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/tu_vung_thong_dung_layout.xml" value="0.18659420289855072" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/update_layout.xml" value="0.1334853090172239" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/layout/user_layout.xml" value="0.2734375" />
+        <entry key="..\:/AndroidProject/DemoProject/app/src/main/res/menu/back_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/DemoProject/app/src/main/res/drawable-v24/custom.xml" value="0.1275" />
+        <entry key="..\:/DemoProject/app/src/main/res/drawable/circle_indicator.xml" value="0.1275" />
+        <entry key="..\:/DemoProject/app/src/main/res/drawable/custom.xml" value="0.1275" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/activity_authentication.xml" value="0.27447916666666666" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/activity_start.xml" value="0.2223731884057971" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/english_directory_layout.xml" value="0.4" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/fragment_anh_viet.xml" value="0.264" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/fragment_blank.xml" value="0.14583333333333334" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/fragment_dong_nghia.xml" value="0.161231884057971" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/fragment_ngu_phap.xml" value="0.161231884057971" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/fragment_tra_nhanh.xml" value="0.161231884057971" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/fragment_viet_anh.xml" value="0.264" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/image_view_layout.xml" value="0.2223731884057971" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/row_english_tense.xml" value="0.264" />
+        <entry key="..\:/DemoProject/app/src/main/res/layout/row_function_name_layout.xml" value="0.1377952755905512" />
+        <entry key="..\:/DemoProject/app/src/main/res/menu/search_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

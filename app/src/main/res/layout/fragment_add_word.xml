@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddWordFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:backgroundTint="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="ADD WORD"
+        android:textStyle="bold"
+        android:textColor="#FF0000"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:background="@drawable/custom_title"/>
+<LinearLayout
+    android:layout_marginTop="50dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+
+    <EditText
+        android:id="@+id/editTextEnglishAddWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom"
+        android:gravity="center"
+        android:hint="English" />
+
+    <EditText
+        android:id="@+id/editTextVietnameseAddWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/custom"
+        android:gravity="center"
+        android:hint="Vietnamese" />
+
+    <EditText
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom"
+        android:hint="Kind"
+        android:gravity="center"
+        android:id="@+id/editTextKindAddWord"/>
+
+    <Button
+        android:id="@+id/buttonAddWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Add" />
+</LinearLayout>
+
+
+
+
+</LinearLayout>
